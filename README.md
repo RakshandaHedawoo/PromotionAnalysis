@@ -1,4 +1,4 @@
-# PromotionAnalysis
+# Google Merchandise Store Promotion & User Engagement Analysis
 1. **Project Overview:** Conducted in-depth analysis of the Google Merchandise Store's promotions and user engagement during the period from August 1st to October 1st, 2023.
 
 2. **Promotion Analysis:** Analyzed the effectiveness of promotions, including "Aloha," "Calling all YouTube fans," "Sip, sip, hooray!," "Happy pets ahead," and "Adventure awaits."
